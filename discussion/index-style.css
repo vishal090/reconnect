@@ -1,0 +1,46 @@
+.hud-title{
+	margin-top: 5px;
+	text-align: center;
+	color: #337AB7;
+	font-family: 'Open Sans', sans-serif;
+}
+.hud-text{
+	margin-top:10px;
+	font-size: 12px;
+	text-align: center;
+
+}
+.hud{
+	background-color: #fff;
+	border-radius: 4px;
+	height: 150px;
+	box-shadow: 1px 1px 2px #bbb;
+	margin: 0 15px 15px 0;
+	
+}
+.hud:hover{
+	background-color: #fff;
+	border-radius: 4px;
+	height: 150px;
+	box-shadow: 1px 1px 2px #bbb;
+	margin: 0 15px 15px 0;
+}
+.hud-user{
+	color: #bbb;
+	font-size: 11px;
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+}
+.hud-date{
+	color: #bbb;
+	font-size: 11px;
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+}
+.sub-content{
+	#border-left: solid 1px #aaa;
+	#height: 100%;
+	text-align: center;
+}
